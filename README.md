@@ -1,4 +1,4 @@
-Welcome to the REU page of Minh and Will.
+# Welcome to the REU page of Minh and Will.
 
 This project demonstrates an IoT distance measurement system using an ultrasonic sensor, RGB LED, and buzzer on a Raspberry Pi.
 
